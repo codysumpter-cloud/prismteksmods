@@ -1,0 +1,8 @@
+{
+  id = cody.druidshapeshifter,
+  name = Druid Shapeshifter (Assets),
+  version = 0.1.0,
+  gameVersion = 0.0.0,
+  description = Asset pack: processed armor sprite sheets and placeholders,
+  author = Cody
+}

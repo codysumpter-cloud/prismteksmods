@@ -1,0 +1,9 @@
+{
+	id = druidmod,
+	name = Druid Mod,
+	version = 1.0,
+	gameVersion = 1.1.1,
+	author = Prismtek,
+	description = Adds a Druid armor set with shapeshifting forms.,
+	clientside = false
+}

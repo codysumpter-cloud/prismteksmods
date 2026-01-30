@@ -1,0 +1,13 @@
+[item]
+druidhelm=Druid Helm
+druidchest=Druid Chest
+druidboots=Druid Boots
+druidfocus=Druidic Focus
+
+[itemtooltip]
+druidfocustip=Right-click to cycle forms (requires full Druid set)
+druidsetbonus=Shapeshifting
+
+[buff]
+druidsetbonus=Shapeshifting
+druidformcooldown=Shapeshifting Cooldown
