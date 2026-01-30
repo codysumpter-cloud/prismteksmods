@@ -1,0 +1,9 @@
+{
+	id = everythingmountmod,
+	name = Everythings a Mount Mod,
+	version = 1.0,
+	gameVersion = 1.1.1,
+	author = Prismtek,
+	description = Makes every mob drop a rideable mount.,
+	clientside = false
+}
