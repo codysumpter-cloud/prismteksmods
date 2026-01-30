@@ -1,0 +1,23 @@
+[item]
+impsummonstaff=Imp Summon Staff
+relicprotectorwill=Relic of Protector's Will
+relicfallenprotector=Relic of the Fallen Protector
+relicperfectedprotector=Relic of the Perfected Protector
+grizzlycubstaff=Grizzly Cub Relic
+grizzlybearstaff=Grizzly Bear Relic
+
+[itemtooltip]
+impsummonstafftip=Summons an imp minion
+relicprotectorwilltip=Summons a protector remnant
+relicfallenprotectortip=Summons a protector echo
+relicperfectedprotectortip=Summons a protector avatar
+grizzlycubstafftip=Summons a grizzly cub
+grizzlycubstafftip_evolved=Summons an evolved grizzly bear
+grizzlybearstafftip=Summons a grizzly bear
+
+[mob]
+impsummonmob=Imp Minion
+protectorremnant=Protector Remnant
+protectorecho=Protector Echo
+protectoravatar=Protector Avatar
+grizzlycubsummon=Grizzly Cub

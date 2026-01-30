@@ -1,0 +1,10 @@
+{
+	id = evilprotectorrelics,
+	name = Evil Protector Relics,
+	version = 1.0,
+	gameVersion = 1.1.1,
+	author = Cody,
+	description = Adds Evil Protector relic summon weapons: minion\, echo\, and perfected forms.,
+	clientside = false,
+	master\ExampleMod-master\Summoning = Weapon\\build\\mod\/mod.info
+}

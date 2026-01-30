@@ -1,0 +1,10 @@
+{
+	id = grizzlycubsummon,
+	name = Grizzly Cub Summon,
+	version = 1.0,
+	gameVersion = 1.1.1,
+	author = Cody,
+	description = Adds a grizzly cub summon staff.,
+	clientside = false,
+	master\ExampleMod-master\Summoning = Weapon\\build\\grizzly\\mod\/mod.info
+}
