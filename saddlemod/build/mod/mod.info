@@ -1,0 +1,9 @@
+{
+	id = saddlemod,
+	name = Saddle Mod,
+	version = 1.0,
+	gameVersion = 1.1.1,
+	author = Prismtek,
+	description = Adds a saddle that enables riding tame mobs.,
+	clientside = false
+}
