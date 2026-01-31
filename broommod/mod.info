@@ -1,0 +1,9 @@
+{
+    id = mountsplus.witchesbroom,
+    name = WitchesBroomOfAscension,
+    version = 1.0,
+    gameVersion = 1.1.1,
+    author = Prismtek,
+    description = Standalone Witches Broom of Ascension mount.,
+    clientside = false
+}
